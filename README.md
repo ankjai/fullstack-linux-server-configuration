@@ -3,9 +3,9 @@
 Project to host [Item Catalog](https://github.com/ankjai/fullstack-nanodegree-item-catalog) on amazon ec2 environment.
 
 #### Hosting Details
-Public IP Address: `52.27.39.87`
-SSH Port: `2200`
-URL: `http://ec2-52-27-39-87.us-west-2.compute.amazonaws.com/`
+Public IP Address: `52.27.39.87`  
+SSH Port: `2200`  
+URL: `http://ec2-52-27-39-87.us-west-2.compute.amazonaws.com/`  
 
 #### Software Installed
 **Using apt-get:**
